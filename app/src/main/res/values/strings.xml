@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Drone Frontend</string>
+    <string name="send">send</string>
+    <string name="click_prompt">click send to test out the http req:</string>
 </resources>
